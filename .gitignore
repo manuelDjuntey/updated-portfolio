@@ -45,9 +45,6 @@ Thumbs.db
 .DS_Store
 Desktop.ini
 
-# EJS views or other templates
-views/*.ejs
-
 # Public assets
 public/css/*.css.map
 public/js/*.js.map
